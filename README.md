@@ -343,9 +343,3 @@ Pastikan direktori kerja Jupyter sesuai dengan lokasi dataset dan notebook. Pros
 5. [TextBlob Documentation](https://textblob.readthedocs.io/)
 6. [Matplotlib Documentation](https://matplotlib.org/stable/)
 7. [Jupyter Documentation](https://docs.jupyter.org/)
-
-## **11. Kontributor**
-
----
-
-Proyek ini merupakan hasil kerja kolaboratif **Nasyita Larasati E.** dan **Rahma Sakinah**, sebagaimana tercantum pada notebook proyek.
